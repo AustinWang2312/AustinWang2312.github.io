@@ -1,0 +1,54 @@
+---
+---
+@import "typography";
+
+.content {
+  width: 45rem;
+  margin: 0 auto;
+}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 0%;
+
+  
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+  margin:0;
+  padding:0;
+}
+
+.nav-bar {
+  list-style-type: none;
+  padding: 0px 0px;
+  position: fixed;
+  top: 5px;
+  width: 100%;
+  background-color: #dddddd;
+
+ 
+}
+.nav-bar-element {
+
+  float: left;
+  display: inline-block;
+  color: red;
+  background-color: #dddddd;
+  padding: 20px 30px;
+  text-decoration: none;
+  border-right: 1px solid #bbb;
+}
+.nav-bar-element:last-child {
+  border-right: none;
+  border-left: 1px solid #bbb;
+  float: right;
+}
+.nav-bar-element:hover {
+  background-color: green;
+  color: blue;
+}
