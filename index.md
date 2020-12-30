@@ -5,8 +5,45 @@
 title: Welcome
 layout: default
 ---
-<h2>
+<h3>
     Welcome to Austin Wang's Website!
-</h2>
+</h3>
 
-<img src="/assets/austin0.jpg" alt="intro-pic" width ="100" height="100">
+<div class="large-block">
+    <img src="/assets/austin0.jpg" alt="intro-pic" width ="360" height="512" 
+    style="float:left;padding-right:40px">
+    <h2>
+        A Brief Introduction
+    </h2>
+    <p style="margin-left:50px;margin-top:40px;width:1200px;">
+        Hello Everyone! My Name is Austin Xu Wang and I'm an ambitious and aspiring software engineer currently studying CS @ UCLA. I'm a 20 Y.O. sophomore eager for any opportunity to work with technology and provide better services for the community. Feel free to contact me for any questions!
+    </p>
+</div>
+<div class="large-block" style="height:256px;">
+    <ul>
+        <li><div class="small-block">
+            <a class="link-block-element" href="/about">About Austin</a>
+            <p style="width:250px;">
+                Come find out more about me including the clubs/orgs I'm involved with and my hobbies.
+            </p>
+        </div></li>
+        <li><div class="small-block">
+            <a class="link-block-element" href="/projects">Projects</a>
+            <p style="width:250px;">
+                Check out some of my personal projects written in C, C++, Bash, Python.
+            </p>
+        </div></li>
+        <li><div class="small-block">
+            <a class="link-block-element" href="/resume">Resume</a>
+            <p style="width:250px;">
+                Download my resume and review my academic history/curriculum.
+            </p>
+        </div></li>
+        <li><div class="small-block">
+            <a class="link-block-element" href="/contact">Contact Me</a>
+            <p style="width:250px;">
+                Ask me anything! I will be more than happy to answer any questions.
+            </p>
+        </div></li>
+    </ul>
+</div>
