@@ -14,16 +14,23 @@ p {
   display: block;
   height: auto;
   text-align: center;
+  width: 100%;
   margin:0;
   padding:0;
   font-size:20px;
 }
 ul {
   list-style-type:none;
+  margin:0;
+  padding:0;
+  width:100%;
 }
 li {
   display: inline-block;
   float: left;
+  margin:0;
+  margin-right:1%;
+  padding:0;
 }
 h1 {
     font-size: 150px;
@@ -84,12 +91,12 @@ h3 {
   margin:0;
   text-decoration: none;
   text-align:center;
-  width:250px;
+  width:100%;
 }
 
 .large-block {
   margin-left:30px;
-  width:1200px;
+  width:90%;
   align:center;
   margin:auto;
   margin-top:150px;
@@ -97,9 +104,13 @@ h3 {
 }
 
 .small-block {
-  width:250px;
-  height:512;
   margin-right:30px;
+  width: 100%px;
+  height:auto;
+  margin:0;
+  padding:0;
+ 
+
 }
 .footer-text {
   padding: 20px 20px;

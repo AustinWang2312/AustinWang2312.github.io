@@ -15,33 +15,33 @@ layout: default
     <h2>
         A Brief Introduction
     </h2>
-    <p style="margin-left:50px;margin-top:40px;width:1200px;">
+    <p style="margin-left:50px;margin-top:60px;">
         Hello Everyone! My Name is Austin Xu Wang and I'm an ambitious and aspiring software engineer currently studying CS @ UCLA. I'm a 20 Y.O. sophomore eager for any opportunity to work with technology and provide better services for the community. Feel free to contact me for any questions!
     </p>
 </div>
 <div class="large-block" style="height:256px;">
     <ul>
-        <li><div class="small-block">
+        <li style="width:24%;"><div class="small-block">
             <a class="link-block-element" href="/about">About Austin</a>
-            <p style="width:250px;">
+            <p style="width:100%;">
                 Come find out more about me including the clubs/orgs I'm involved with and my hobbies.
             </p>
         </div></li>
-        <li><div class="small-block">
+        <li style="width:24%;"><div class="small-block">
             <a class="link-block-element" href="/projects">Projects</a>
-            <p style="width:250px;">
+            <p style="width:100%;">
                 Check out some of my personal projects written in C, C++, Bash, Python.
             </p>
         </div></li>
-        <li><div class="small-block">
+        <li style="width:24%;"><div class="small-block">
             <a class="link-block-element" href="/resume">Resume</a>
-            <p style="width:250px;">
+            <p style="width:100%;">
                 Download my resume and review my academic history/curriculum.
             </p>
         </div></li>
-        <li><div class="small-block">
+        <li style="width:24%;"><div class="small-block">
             <a class="link-block-element" href="/contact">Contact Me</a>
-            <p style="width:250px;">
+            <p style="width:100%;">
                 Ask me anything! I will be more than happy to answer any questions.
             </p>
         </div></li>
