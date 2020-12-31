@@ -10,8 +10,8 @@ layout: default
 </h3>
 
 <div class="large-block">
-    <img src="/assets/austin0.jpg" alt="intro-pic" width ="35%" height="100%" 
-    style="float:left;padding-right:10%">
+    <img src="/assets/austin0.jpg" class="collapsible-image" alt="intro-pic" width ="35%" height="auto"
+    style="float:left;padding-right:10%;max-height:512px;max-width:360px;">
     <h2>
         A Brief Introduction
     </h2>
