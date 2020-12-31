@@ -10,12 +10,12 @@ layout: default
 </h3>
 
 <div class="large-block">
-    <img src="/assets/austin0.jpg" alt="intro-pic" width ="360" height="512" 
-    style="float:left;padding-right:40px">
+    <img src="/assets/austin0.jpg" alt="intro-pic" width ="35%" height="100%" 
+    style="float:left;padding-right:10%">
     <h2>
         A Brief Introduction
     </h2>
-    <p style="margin-left:50px;margin-top:60px;">
+    <p style="width:100%;margin-top:10%;">
         Hello Everyone! My Name is Austin Xu Wang and I'm an ambitious and aspiring software engineer currently studying CS @ UCLA. I'm a 20 Y.O. sophomore eager for any opportunity to work with technology and provide better services for the community. Feel free to contact me for any questions!
     </p>
 </div>
