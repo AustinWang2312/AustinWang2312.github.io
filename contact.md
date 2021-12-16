@@ -13,16 +13,16 @@ permalink: /contact/
     <a class="social-icon" href="https://mail.google.com/mail/u/0/?fs=1&to=austinxwang@gmail.com&tf=cm">
         <ion-icon name="mail-outline" ></ion-icon>
     </a>
-    <a class="social-icon" href="https://mail.google.com/mail/u/0/?fs=1&to=austinxwang@gmail.com&tf=cm">
+    <a class="social-icon" href="https://www.facebook.com/profile.php?id=100009562219662">
         <ion-icon name="logo-facebook"></ion-icon>
     </a>
-    <a class="social-icon" href="https://mail.google.com/mail/u/0/?fs=1&to=austinxwang@gmail.com&tf=cm">
+    <a class="social-icon" href="https://www.instagram.com/austinxwang/">
         <ion-icon name="logo-instagram" ></ion-icon>
     </a>
-    <a class="social-icon" href="https://mail.google.com/mail/u/0/?fs=1&to=austinxwang@gmail.com&tf=cm">
+    <a class="social-icon" href="https://www.linkedin.com/in/austinxwang/">
         <ion-icon name="logo-linkedin" ></ion-icon>
     </a>
-    <a class="social-icon" href="https://mail.google.com/mail/u/0/?fs=1&to=austinxwang@gmail.com&tf=cm">
+    <a class="social-icon" href="https://github.com/AustinWang2312/">
         <ion-icon name="logo-github" ></ion-icon>
     </a>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
