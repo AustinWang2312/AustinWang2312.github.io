@@ -9,7 +9,7 @@ layout: default
     Welcome to Austin Wang's Website!
 </h3>
 
-<div class="large-block">
+<div class="large-block" style="margin-top:150px;height:512px;">
     <img src="/assets/austin0.jpg" class="collapsible-image" alt="intro-pic" width ="35%" height="auto"
     style="float:left;padding-right:10%;max-height:512px;max-width:360px;">
     <h2>
@@ -19,7 +19,7 @@ layout: default
         Hello Everyone! My Name is Austin Xu Wang and I'm an ambitious and aspiring software engineer currently studying CS @ UCLA. I'm a 20 Y.O. sophomore eager for any opportunity to work with technology and provide better services for the community. Feel free to contact me for any questions!
     </p>
 </div>
-<div class="large-block" style="height:256px;">
+<div class="large-block" style="height:256px;margin-top:150px;">
     <ul>
         <li style="width:24%;"><div class="small-block">
             <a class="link-block-element" href="/about">About Austin</a>
