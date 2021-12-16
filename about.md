@@ -22,3 +22,5 @@ def foo
   puts 'foo'
 end
 {% endhighlight %}
+<div style="height:1000px">
+</div>
