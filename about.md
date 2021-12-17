@@ -21,11 +21,12 @@ permalink: /about/
   </h2>
   <br>
   <img src="/assets/personal.jpg" class="collapsible-image"> 
+  <img src="/assets/beach.jpg" class="collapsible-image"> 
   <div class="large-block" style="width:80%;margin-top:50px">
     I'm a student at UCLA involved with UPE UCLA's CS Honor society and UCLA Wushu (Chinese Martial Art). I'm currently the social chair for UCLA Wushu and it's always a blast to get to train and hangout with such a tight knit group of friends. In my free time, I also like to play casual pickup volleyball and go hiking and read.
   </div>
   <br><br>
-  <img src="/assets/beach.jpg" class="collapsible-image"> 
+  
 </div>
 <div style="height:100px">
 </div>
