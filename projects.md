@@ -11,9 +11,15 @@ permalink: /projects/
             <h2>Project Index</h2>
         </div>
         <div class="index-box">
-            <a href="#proj0">Performance Analysis of Python Packages</a>
+            <a href="#proj2">Stock Price Prediction with CNN articles</a>
             <p>
-                2017 | Languages: Python
+                2020 | Languages: Python
+            </p>
+        </div>
+        <div class="index-box">
+            <a href="#proj1">Delivery Navigation in LA</a>
+            <p>
+                2020 | Languages: C++
             </p>
         </div>
         <div class="index-box">
@@ -26,48 +32,47 @@ permalink: /projects/
     <div style="width:68%;height:auto;display:block;float:right;margin-left:2%">
         <div class="project-box"> 
             <div class="project-image">
-                <img src="/assets/performance.png" class="collapsible-image" style="width:100%;">
+                <img src="/assets/stock.png" class="collapsible-image" style="width:100%;max-width:175px;">
             </div>
-            <h3>Performance Analysis of Python Packages</h3>
+            <h2>Stock Price Prediction with CNN articles</h2>
             <div style="margin: 20px;">
             Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.
+            </div>
+            <div style="width:100%;">
+                <h3>Technologies: BeautifulSoup, Sci-kit Learn, Matplotlib, Pandas<br>
+                Languages: Python<br>
+                2020
+                </h3>
             </div>
         </div>
         <div class="project-box"> 
             <div class="project-image">
-                <img src="/assets/performance.png" class="collapsible-image" style="width:100%;">
+                <img src="/assets/delivery.png" class="collapsible-image" style="width:100%;max-width:250px;">
             </div>
-            <h3>Performance Analysis of Python Packages</h3>
+            <h2>Delivery Navigation in LA</h2>
             <div style="margin: 20px;">
             Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.
+            </div>
+            <div style="width:100%;">
+                <h3>Technologies: Simulated Annealing, A* Search<br>
+                Languages: C++<br>
+                2020
+                </h3>
             </div>
         </div>
         <div class="project-box"> 
             <div class="project-image">
-                <img src="/assets/performance.png" class="collapsible-image" style="width:100%;">
+                <img src="/assets/performance.png" class="collapsible-image" style="width:100%;max-width:350px;">
             </div>
-            <h3>Performance Analysis of Python Packages</h3>
+            <h2 id="proj0">Performance Analysis of Python Packages</h2>
             <div style="margin: 20px;">
             Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.
             </div>
-        </div>
-        <div class="project-box"> 
-            <div class="project-image">
-                <img src="/assets/performance.png" class="collapsible-image" style="width:100%;">
-            </div>
-            <h3>Performance Analysis of Python Packages</h3>
-            <div style="margin: 20px;">
-            Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.
-            </div>
-        </div>
-        <div class="project-box"> 
-            <div class="project-image">
-                <img src="/assets/performance.png" class="collapsible-image" style="width:100%;">
-            </div>
-            <h3>Performance Analysis of Python Packages</h3>
-            <div style="margin: 20px;">
-            Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.Come find out more about me including the clubs/orgs I'm involved with and my hobbies.
-            </div>
+            <h3>Technologies: AirSpeedVelocity, Perf, Cprofile, PyPy
+                Interpreter<br>
+                Languages: Python<br>
+                2017
+                </h3>
         </div>
     </div>
 </div>
