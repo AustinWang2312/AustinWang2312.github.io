@@ -9,7 +9,11 @@
   
 
 }
-
+:root {
+  --bg-color: #FEF0D7;
+  --typewriterSpeed: 1s;
+  --typewriterCharacters: 15;
+}
 .center {
   margin:auto;
 }
@@ -25,7 +29,7 @@ p {
 body {
   background-color: #FEF0D7;
   height: calc(100vh-20px);
-
+  
 }
 ul {
 
@@ -46,9 +50,51 @@ h1 {
     text-align: center;
     padding: 0px;
     margin-bottom: 0%;
-
-  
+    position: relative;
+    width: max-content;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
 }
+h1::before,
+h1::after {
+  content: "";
+  position: absolute;
+  text-align: center;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+h1::before {
+  text-align: center;
+  background: var(--bg-color);
+  animation: typewriter var(--typewriterSpeed)
+    steps(var(--typewriterCharacters)) 0.7s forwards;
+}
+
+h1::after {
+  text-align: center;
+  width: 0.075em;
+  background: black;
+  animation: typewriter var(--typewriterSpeed)
+      steps(var(--typewriterCharacters)) 0.7s forwards,
+    blink 1000ms steps(var(--typewriterCharacters)) infinite;
+}
+@keyframes typewriter {
+  to {
+    left: 100%;
+  }
+}
+
+@keyframes blink {
+  to {
+    background: transparent;
+  }
+}
+
+
 h2 {
   display: block;
   height: auto;
@@ -73,6 +119,7 @@ h3 {
   background-color: #D6EFFF;
   border-bottom: 2px solid #171D1C;
   opacity: 0.8;
+  z-index:1100;
 
  
 }
@@ -180,7 +227,7 @@ h3 {
 
 .project-box {
   margin-top: 50px;
-  
+  max-width: 1100px;
   background-color: #EDFAC7;
   border: 2px solid #171D1C;
   font-size: 20px;
@@ -217,6 +264,11 @@ h3 {
   background-color: #5aa9da;
   color: #2F2F2F;
   border: 2px solid #171D1C;
+}
+
+.anchor {
+  position: absolute;
+  transform: translateY(-20vh);
 }
 
 /*FORM STUFF */
