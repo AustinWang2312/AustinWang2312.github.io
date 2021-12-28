@@ -79,7 +79,7 @@ permalink: /projects/
                 </div>
                 <h2>Lyricloud: Wordcloud Generator for Song Lyrics</h2>
                 <div style="margin: 20px;">
-                Built full end-to-end webservice using React.js for frontend deployment and Node Express for the backend server. Lyricloud scrapes music lyrics from Genius.com and converts them to a WordCloud format using the react-wordcloud module. The backend server performs the webscraping and text processing while the frontend calls the server's API to retrieve the relevant lyrics. WORK IN PROGRESS. To be implemented: smart searches, webscraping lyrics from backup websites, support for foreign languages, handling for songs with multiple artists.
+                Built full end-to-end webservice using React.js for frontend deployment and Node Express for the backend server. Lyricloud scrapes music lyrics from Genius.com and converts them to a WordCloud format using the react-wordcloud module. The backend server performs the webscraping and text processing while the frontend calls the server's API to retrieve the relevant lyrics. WORK IN PROGRESS. To be implemented: smart searches, webscraping lyrics from backup websites, support for foreign languages, handling for songs with multiple artists, Wordcloud generation for multiple songs.
                 </div>
                 <div style="width:100%;">
                     <div style="text-align:center;">
