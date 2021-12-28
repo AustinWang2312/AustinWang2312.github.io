@@ -11,6 +11,12 @@ permalink: /projects/
             <h2>Project Index</h2>
         </div>
         <div class="index-box">
+            <a href="#lyricloud" style="text-decoration:none;">Lyricloud</a>
+            <p>
+                2022 | Languages: Javascript, HTML, CSS
+            </p>
+        </div>
+        <div class="index-box">
             <a href="#cookies" style="text-decoration:none;">Cookies.co Sales Analysis and Prediction</a>
             <p>
                 2021 | Languages: Python
@@ -66,6 +72,25 @@ permalink: /projects/
         </div>
     </div>
     <div style="width:70%;height:auto;display:block;float:right;margin-left:2%"> 
+        <span class="anchor" id="lyricloud"></span>
+            <div class="project-box"> 
+                <div class="project-image">
+                    <img src="/assets/lyricloud.png" class="collapsible-image" style="width:100%;max-width:300px;">
+                </div>
+                <h2>Lyricloud: Wordcloud Generator for Song Lyrics</h2>
+                <div style="margin: 20px;">
+                Built full end-to-end webservice using React.js for frontend deployment and Node Express for the backend server. Lyricloud scrapes music lyrics from Genius.com and converts them to a WordCloud format using the react-wordcloud module. The backend server performs the webscraping and text processing while the frontend calls the server's API to retrieve the relevant lyrics.
+                </div>
+                <div style="width:100%;">
+                    <div style="text-align:center;">
+                        <a href="https://lyricloud.netlify.app" style="text-decoration:none;text-align:center;">Lyricloud</a>
+                    </div>
+                    <h3>Technologies: React.js, Node Express, Node.js<br>
+                    Languages: Javascript, HTML, CSS<br>
+                    2021
+                    </h3>
+                </div>
+            </div>
         <span class="anchor" id="cookies"></span>
         <div class="project-box"> 
             <div class="project-image">
@@ -89,7 +114,7 @@ permalink: /projects/
             </div>
             <h2 >Nobel Laureate JSON Web-service API</h2>
             <div style="margin: 20px;">
-            Data on Nobel Laureates was originally provided in JSON format which was then converted into MySQL load files for a relational schema designed from scratch. Data was then loaded into the appropriate tables in the database. Using PHP inside an Apache Web server, a web service was created for users to request Nobel Laureate data from. The PHP script regenerated the original JSON data for the user by querying the database and then printing on the website.
+            Data on Nobel Laureates was originally provided in JSON format which was then converted into MySQL load files for a relational schema designed from scratch. Data was then loaded into the appropriate tables in. Using PHP inside an Apache Web server, a web service was created for users to request Nobel Laureate data from. The PHP script regenerated the original JSON data for the user by querying the database and then printing on the website.
             </div>
             <div style="width:100%;">
                 <h3>Technologies: Apache, MariaDB, JSON<br>
