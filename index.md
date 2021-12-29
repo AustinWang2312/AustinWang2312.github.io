@@ -34,7 +34,7 @@ layout: default
             </p>
         </div></li>
         <li style="width:24%;"><div class="small-block">
-            <a cla ss="link-block-element" href="/resume">Resume</a>
+            <a class="link-block-element" href="/resume">Resume</a>
             <p style="width:100%;">
                 Download my resume and review my academic history/curriculum.
             </p>
