@@ -16,7 +16,7 @@ layout: default
         A Brief Introduction
     </h2>
     <p style="width:100%;margin-top:10%;">
-        Hello Everyone! My Name is Austin Xu Wang and I'm an ambitious and aspiring software engineer currently studying CS @ UCLA. I'm a 21 Y.O. Junior eager for any opportunity to work with technology and provide better services for the community. Feel free to contact me for any questions!
+        Hello Everyone! My Name is Austin Xu Wang and I'm an ambitious and aspiring software engineer who recently graduated Magna Cum Laude @ UCLA with a B.S. in Computer Science. I'm a 22 Y.O. new grad Senior eager for any opportunity to work with technology and provide better services for the community. Feel free to contact me for any questions!
     </p>
 </div>
 <div class="large-block" style="height:256px;margin-top:150px;">
@@ -30,7 +30,7 @@ layout: default
         <li style="width:24%;"><div class="small-block">
             <a class="link-block-element" href="/projects">Projects</a>
             <p style="width:100%;">
-                Check out some of my personal projects written in C, C++, Bash, Python.
+                Check out some of my personal projects written in Javascript, C, C++, Bash, Python.
             </p>
         </div></li>
         <li style="width:24%;"><div class="small-block">

@@ -11,6 +11,18 @@ permalink: /projects/
             <h2>Project Index</h2>
         </div>
         <div class="index-box">
+            <a href="#planit" style="text-decoration:none;">Plan-It</a>
+            <p>
+                2023 | Languages: Javascript, Python, SQL, HTML, CSS
+            </p>
+        </div>
+        <div class="index-box">
+            <a href="#sushi" style="text-decoration:none;">Sushi Bar Simulator</a>
+            <p>
+                2023 | Languages: Javascript
+            </p>
+        </div>
+        <div class="index-box">
             <a href="#lyricloud" style="text-decoration:none;">Lyricloud</a>
             <p>
                 2022 | Languages: Javascript, HTML, CSS
@@ -72,6 +84,44 @@ permalink: /projects/
         </div>
     </div>
     <div style="width:70%;height:auto;display:block;float:right;margin-left:2%"> 
+        <span class="anchor" id="planit"></span>
+            <div class="project-box"> 
+                <div class="project-image">
+                    <img src="/assets/Plan-It.png" class="collapsible-image" style="width:100%;max-width:300px;">
+                </div>
+                <h2>Plan-It: Calendar-based Scheduling Social Media</h2>
+                <div style="margin: 20px;">
+                Built full end-to-end web application using React.js for frontend deployment and Flask/Sqlite for the backend. Plan-It is a simplistic, calendar-based social media website. Users can create various calendars and guides, or add existing ones. Any user can also share their content, either privately with friends, or publicly with the whole world!  People can also search for public calendars and guides, and also browse calendars that they may be interested in.
+                </div>
+                <div style="width:100%;">
+                    <div style="text-align:center;">
+                        <a href="https://docs.google.com/presentation/d/1qDC0-QMRuslrM9hrdt2Y_71zndHwHuHklJ898dUaYY0/edit?usp=sharing" style="text-decoration:none;text-align:center;">Plan-It Presentation</a>
+                    </div>
+                    <h3>Technologies: React.js, TailwindCSS, Flask, Sqlite<br>
+                    Languages: Javascript, Python, SQL, HTML, CSS<br>
+                    2023
+                    </h3>
+                </div>
+            </div>
+        <span class="anchor" id="sushi"></span>
+            <div class="project-box"> 
+                <div class="project-image">
+                    <img src="/assets/sushi.png" class="collapsible-image" style="width:100%;max-width:300px;">
+                </div>
+                <h2>Sushi Bar Simulator</h2>
+                <div style="margin: 20px;">
+                Designed an atmospheric sushi bar setting using the TinyGraphics Javascript framework. Users can interact with the sushi bar by requesting more sushi, placing it where they want on the table, and finally consuming it. All textures and models were self designed. Lighting and shadows as well as alternative camera angles are also implemented to improve the graphical realism. Mouse picking and object collision are used to prevent sushi trays from colliding.
+                </div>
+                <div style="width:100%;">
+                    <div style="text-align:center;">
+                        <a href="https://github.com/lucianli/Interactive-Sushi-Bar/" style="text-decoration:none;text-align:center;">Sushi Bar Github</a>
+                    </div>
+                    <h3>Technologies: TinyGraphics<br>
+                    Languages: Javascript<br>
+                    2023
+                    </h3>
+                </div>
+            </div>
         <span class="anchor" id="lyricloud"></span>
             <div class="project-box"> 
                 <div class="project-image">
@@ -87,7 +137,7 @@ permalink: /projects/
                     </div>
                     <h3>Technologies: React.js, Node Express, Node.js<br>
                     Languages: Javascript, HTML, CSS<br>
-                    2021
+                    2022
                     </h3>
                 </div>
             </div>
