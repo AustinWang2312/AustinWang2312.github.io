@@ -11,6 +11,12 @@ permalink: /projects/
             <h2>Project Index</h2>
         </div>
         <div class="index-box">
+            <a href="#ancient" style="text-decoration:none;">Ancient</a>
+            <p>
+                2023 | Languages: C#
+            </p>
+        </div>
+        <div class="index-box">
             <a href="#planit" style="text-decoration:none;">Plan-It</a>
             <p>
                 2023 | Languages: Javascript, Python, SQL, HTML, CSS
@@ -84,6 +90,25 @@ permalink: /projects/
         </div>
     </div>
     <div style="width:70%;height:auto;display:block;float:right;margin-left:2%"> 
+        <span class="anchor" id="ancient"></span>
+            <div class="project-box"> 
+                <div class="project-image">
+                    <img src="/assets/ancient.png" class="collapsible-image" style="width:100%;max-width:300px;">
+                </div>
+                <h2>Ancient: 2D Top-Down Video Game</h2>
+                <div style="margin: 20px;">
+                Crafted a video game from scratch in Unity (C#) with a full ideation process for designing gameplay mechanics and outlining remaining patches for the game. Assets were created from scratch using Midjourney AI, the sound effects were normalized and adjusted in Audacity, and animations were developed in the Unity editor. The game is a top-down 2D rogue-like where the player is a spell caster who combines Earth, Fire, and Water orbs to synthesize unique spells to protect themselves against waves of enemies. At the moment, the game exists only as a demo version and is not complete.
+                </div>
+                <div style="width:100%;">
+                    <div style="text-align:center;">
+                        <a href="https://play.unity.com/mg/other/webgl-builds-361698" style="text-decoration:none;text-align:center;">Ancient</a>
+                    </div>
+                    <h3>Technologies: Unity, Midjourney, Audacity<br>
+                    Languages: C#<br>
+                    2023
+                    </h3>
+                </div>
+            </div>
         <span class="anchor" id="planit"></span>
             <div class="project-box"> 
                 <div class="project-image">
